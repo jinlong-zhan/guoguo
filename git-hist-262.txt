@@ -475,3 +475,26 @@
   475  git branch -d 02 && git push origin :02
   476  git branch -D 02 && git push origin :02
   477  history
+  478  history > git-hist.txt
+  479  vim git-hist.txt
+  480  explorer
+  481  env | grep SHELL
+  482  chsh /bin/bash
+  483  env | grep SHELL
+  484  ls /bin
+  485  chsh /bin/bash
+  486  chsh /bin/sh
+  487  chsh -s /bin/sh
+  488  echo $shell
+  489  echo $SHELL
+  490  cd github
+  491  ls
+  492  git add . && git commit -m push-git-hist
+  493  git checkout master
+  494  git merge 02-2 -m merge02-2-master
+  495  git push origin master
+  496  ls
+  497  mv git-hist.txt git-hist-262.txt
+  498  git add .
+  499  git commit -m update-git-hist
+  500  git push origin master 
