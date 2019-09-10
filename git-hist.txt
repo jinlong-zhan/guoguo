@@ -1,0 +1,477 @@
+    1  ls
+    2  ls -la
+    3  cd Applications
+    4  ls
+    5  cd ..
+    6  brew
+    7  mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
+    8  brew
+    9  ls
+   10  mkdir homebrew && curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
+   11  curl -L https://github.com/Homebrew/brew/tarball/master | tar xz --strip 1 -C homebrew
+   12  ls
+   13  ls homebrew
+   14  /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+   15  man ssh-keygen
+   16  brew insatll vim
+   17  brew inatll vim
+   18  brew install vim
+   19  sudo chown -R $(whoami) /usr/local/lib/python3.7/site-packages
+   20  chmod u+w /usr/local/lib/python3.7/site-packages
+   21  brew install vim
+   22  brew reinstall vim
+   23  gem
+   24  gem install ruby
+   25  sudo gem install ruby
+   26  brew insatll ruby
+   27  brew install ruby
+   28  gem install capistrano
+   29  sudo gem install capistrano
+   30  sudo gem install pulsar
+   31  sudo -i
+   32  brew update
+   33  grew install azure-cli
+   34  brew install azure-cli
+   35  az login
+   36  ssh root@jinlong
+   37  vim /etc/hosts
+   38  brew install git tmux vim ansible terraform kubectl zsh
+   39  ls
+   40  brew tap caskroom/fonts
+   41  brew tap caskroom/cask
+   42  brew cask install font-sourcecodepro-nerd-font
+   43  sudo sh -c "echo $(which zsh) >> /etc/shells" \nchsh -s $(which zsh)
+   44  sudo -i
+   45  sudo sh -c "echo $(which zsh) >> /etc/shells" \nchsh -s $(which zsh)
+   46  \nchsh -s $(which zsh)
+   47  chsh -s $(which bash)
+   48  chsh -s $(which zsh)
+   49  sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+   50  pwd
+   51  vim .zshrc
+   52  exec $SHELL
+   53  git clone https://github.com/bhilburn/powerlevel9k.git ~/.oh-my-zsh/custom/themes/powerlevel9k
+   54  vim .zshrc
+   55  exec $SHELL
+   56  vim .zshrc
+   57  exec $SHELL
+   58  vim .zshrc
+   59  exec $SHELL
+   60  vim .zshrc
+   61  exec $SHELL
+   62  vim .zshrc
+   63  exec $SHELL
+   64  vim .zshrc
+   65  exec $SHELL
+   66  sudo -i
+   67  cd /home
+   68  exec $SHELL
+   69  ls
+   70  sudo ls
+   71  cd /
+   72  ls
+   73  cd Users
+   74  ls
+   75  cd jinlong
+   76  cd ../luwensong
+   77  cd  ..
+   78  cd
+   79  exec $SHELL
+   80  history
+   81  vim .zshrc
+   82  exec $SHELL
+   83  lsblk
+   84  blkid
+   85  chown 
+   86  reset
+   87  exec $SHELL
+   88  vim .zshrc
+   89  exec $SHELL
+   90  vim .zshrc
+   91  exec $SHELL
+   92  vim .zshrc
+   93  exec $SHELL
+   94  vim .zshrc
+   95  exec $SHELL
+   96  vim .zshrc
+   97  ls
+   98  ls /
+   99  brew install git tmux vim ansible terraform kubectl zsh
+  100  vim .zshrc
+  101  exec $SHELL
+  102  brew cask install iterm2 firefox docker
+  103  brew cask install firefox docker
+  104  vim .zshrc
+  105  exec $SHELL
+  106  ls
+  107  ls -al
+  108  mkdir jinlong
+  109  ls
+  110  cd jinlong
+  111  lls
+  112  ls
+  113  cd ..
+  114  ls
+  115  cd jinlong
+  116  ls
+  117  cd
+  118  brew install asciinema\n
+  119  ls
+  120  cd homebrew
+  121  cd ..
+  122  ll
+  123  cd jinlong
+  124  ls -al
+  125  touch test
+  126  vim test
+  127  ssh jinlong@jinlong
+  128  git 
+  129  cd ..
+  130  cd .ssh
+  131  ls
+  132  vim config
+  133  vim /etc/hosts
+  134  cd
+  135  cd -
+  136  pwd
+  137  ls -a
+  138  touch config
+  139  vim /etc/passwd
+  140  sudo vim /etc/passwd
+  141  cd
+  142  ls
+  143  ls jinlong
+  144  mkdir long-work
+  145  ls
+  146  exit
+  147  cd ../
+  148  ls
+  149  pwd
+  150  cd ..
+  151  ls
+  152  rm jinlong -r
+  153  rm -r jinlong
+  154  ls
+  155  cd ~
+  156  cd long-work
+  157  brew install asciinema
+  158  sduo vim /etc/passwd
+  159  sudo vim /etc/passwd
+  160  vim ~/.vimrc
+  161  sudo vim /etc/passwd
+  162  vim ~/.vimrc
+  163  sudo vim /etc/passwd
+  164  vim ~/.vimrc
+  165  sudo vim /etc/passwd
+  166  vim ~/.vimrc
+  167  sudo vim /etc/passwd
+  168  rm ~/.vimrc
+  169  sudo vim /etc/passwd
+  170  vim ~/.zshrc
+  171  man zsh
+  172  man man
+  173  man zshrc
+  174  man .zshrc
+  175  man zsh
+  176  ls /etc/
+  177  poweroff
+  178  sudo poweroff
+  179  sudo -i
+  180  exit
+  181  poweroff
+  182  ls
+  183  brew
+  184  man proweroff
+  185  poweroff
+  186  sudo poweroff
+  187  cd /sbin
+  188  ls
+  189  shutdown -h 1
+  190  sudo shutdown -h 1
+  191  sudo shutdown -h 30
+  192  sudo shutdown -h now
+  193  cd
+  194  cat .bashrc
+  195  ls -a
+  196  echo $HISTSIZE
+  197  echo $HISTFILESIZE
+  198  echo $HISTSIZE
+  199  cd .ssh
+  200  ls
+  201  cd
+  202  cd long-work
+  203  ls
+  204  rm -rf *
+  205  ls
+  206  ln -s ../Desktop .
+  207  ls
+  208  cd Desktop
+  209  pwd
+  210  cd ..
+  211  ll
+  212  rm -rf Desktop
+  213  ls
+  214  cd ..
+  215  vim .zshrc
+  216  poweroff
+  217  sudo poweroff
+  218  sudo -i
+  219  sudo poweroff
+  220  sudo -i
+  221  poweroff
+  222  sudo -i
+  223  sudo poweroff
+  224  sudo -i
+  225  vim .zshrc
+  226  cd
+  227  vim .zshrc
+  228  poweroff
+  229  cd ~/.ssh
+  230  ls
+  231  ssh root@jinlong
+  232  ssh jinlong
+  233  ssh jinlong@jinlong
+  234  ssh jinlong
+  235  vim ~/.ssh/config
+  236  ssh jinlong
+  237  scp jinlong@jinlong:~/.ssh/id-rsa.pub .
+  238  scp jinlong@jinlong:~/.ssh/id_rsa.pub .
+  239  mv id_rsa.pub jinlong_id_rsa.pub
+  240  scp root@jinlong:~/.ssh/id_rsa.pub .
+  241  ls
+  242  mv jinlong_id_rsa.pub jinlong-vm_id_rsa.pub
+  243  mv id_rsa.pub jinlong-vm-root_id_rsa.pub
+  244  ls
+  245  ssh jinlong
+  246  cat ~/.ssh/id_rsa.pub
+  247  mkdir github
+  248  ls
+  249  ln -s github github
+  250  ls
+  251  ls -a
+  252  rm github -rf
+  253  rm -rf github
+  254  ls
+  255  git
+  256  q
+  257  ls
+  258  mkdir azure-ssh-key
+  259  ls
+  260  mv jinlong-vm* azure-ssh-key
+  261  ls
+  262  mkdir github
+  263  git remote add origin git@github.com:jinlong-zhan/guoguo.git
+  264  git remote add origin git@github.com:jinlong-zhan/guoguo
+  265  cd github
+  266  ls
+  267  echo "# Practicing Git" > README.md
+  268  ls
+  269  cat README.md
+  270  git git init
+  271  git init
+  272  ls
+  273  cd ..
+  274  cd github
+  275  ls
+  276  cd ..
+  277  ls
+  278  cd 
+  279  vim .zshrc
+  280  cd github
+  281  ls
+  282  git add README.md
+  283  ls
+  284  git add README.md
+  285  ls -a
+  286  ls .git
+  287  vim hi.txt
+  288  git add .
+  289  git commit -m jinlong-lab
+  290  git config --global --edit
+  291  ls
+  292  git branch
+  293  git branch 02
+  294  ls
+  295  git add .
+  296  git checkout master
+  297  git checkout 02
+  298  vim say-goodby.txt
+  299  ls
+  300  git add .
+  301  git commit -m branch-02
+  302  ls
+  303  git checkout master
+  304  ls
+  305  git ckeckout 02
+  306  git ckeckout master
+  307  ll
+  308  git ckeckin 02
+  309  git branch -a
+  310  git ckeckout 02
+  311  git checkout 02
+  312  ls
+  313  git checkout master
+  314  ls
+  315  git checkout 02
+  316  ls
+  317  cd
+  318  ln -s ~/long-work/github .
+  319  ls
+  320  cd github
+  321  git checkout -b 03
+  322  touch 1-[1..99]
+  323  touch 1[1..99]
+  324  touch 1{1..99}
+  325  ls
+  326  touch 1{01..99}
+  327  ls
+  328  git branch -d 03
+  329  cd..
+  330  cd ..
+  331  git branch -d 03
+  332  cd -
+  333  git checkout 02
+  334  ls
+  335  git checkout 03
+  336  ls
+  337  git checkout master 
+  338  ls
+  339  git checkout 03
+  340  git branch -a
+  341  git add .
+  342  ls
+  343  git commit 03
+  344  git commit -m 03
+  345  git checkout 02
+  346  ls
+  347  git checkout 03
+  348  ls
+  349  git branch -d 03
+  350  git checkout
+  351  git checkout master
+  352  ls
+  353  git branch -d 03
+  354  git branch -D 03
+  355  git add .
+  356  git commit
+  357  git branch 03
+  358  git checkout 03
+  359  ls
+  360  cd ,,
+  361  cd ..
+  362  ls
+  363  cd long-work/github
+  364  ls
+  365  git branch 02
+  366  ls
+  367  git checkout 02
+  368  ls
+  369  git branch 03
+  370  ls
+  371  git checkout 03
+  372  ls
+  373  git branch -d 03
+  374  git checkout master 
+  375  ls
+  376  git branch -d 03
+  377  git branch -D 03
+  378  git checkout 02
+  379  git branch -a
+  380  git branch 03
+  381  git checkout 03
+  382  ls
+  383  git branch -a
+  384  ls
+  385  vim say-sorry.txt
+  386  git add say-sorry.txt
+  387  git commit
+  388  git add .
+  389  git commit
+  390  git commit -m 03
+  391  ls
+  392  git checkout 02
+  393  ls
+  394  git branch -d 03
+  395  git branch -D 03
+  396  git branch -d 03
+  397  git checkout 01
+  398  git checkout master
+  399  ls
+  400  git checkout 02
+  401  ls
+  402  git checkout -b 02-2
+  403  ls
+  404  vim say-sorry.txt
+  405  git add .
+  406  git commit
+  407  git commit -m 02-2
+  408  ls
+  409  git -a
+  410  git branch -a
+  411  cd ..
+  412  cd
+  413  cd long-work
+  414  cd
+  415  cd long-work/github
+  416  git remote add origin git@github.com:jinlong-zhan/guoguo.git
+  417  git push -u origin master
+  418  git push -u origin 02
+  419  git push -u origin 02-2
+  420  git branch -d 02
+  421  git checkout master
+  422  ls
+  423  vim merge-test.txt
+  424  git add .
+  425  git commit -m merge-test
+  426  git merge 02-2
+  427  git merge 02-2 -m merge02-2-master
+  428  git branch -a
+  429  git push -u origin master
+  430  git branch -a
+  431  git push master
+  432  git remote add origin git@github.com:jinlong-zhan/guoguo.git
+  433  git add .
+  434  git push -u origin master
+  435  git branch -a
+  436  git merge 02-2 -m merge02-2-master
+  437  git branch -a
+  438  git branch ?
+  439  man git
+  440  git push
+  441  git push -u origin master
+  442  git push
+  443  man git push
+  444  man "git push"
+  445  man git
+  446  man git > ~/Desktop/git.txt
+  447  cat ~/desktop/git.txt
+  448  vim ~/desktop/git.txt
+  449  cat ~/desktop/git.txt
+  450  cat ~/Desktop/git.txt > ~/Desktop/git2.txt
+  451  man git
+  452  man git | less
+  453  man git | less > 123
+  454  ls
+  455  finder .
+  456  pwd
+  457  man git
+  458  git fetch origin maste
+  459  cd github
+  460  git fetch origin maste
+  461  git fetch origin master
+  462  git checkout master\n
+  463  git merge origin/master\n
+  464  git checkout <new_branch>
+  465  git checkout 02-2
+  466  git checkout master
+  467  git merge origin/master
+  468  git checkout 02
+  469  git merge master
+  470  ls
+  471  rm 123
+  472  ls
+  473  git branch -a
+  474  git checkout 02-2
+  475  git branch -d 02 && git push origin :02
+  476  git branch -D 02 && git push origin :02
+  477  history
